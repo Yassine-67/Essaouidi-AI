@@ -1,1 +1,152 @@
-const _0x35bd8b=_0x40f3;(function(_0x11fed7,_0x1b945c){const _0x2d99c2=_0x40f3,_0x5a05f7=_0x11fed7();while(!![]){try{const _0xedbb2b=parseInt(_0x2d99c2(0xc8))/0x1+-parseInt(_0x2d99c2(0xbf))/0x2*(-parseInt(_0x2d99c2(0xd6))/0x3)+parseInt(_0x2d99c2(0xf1))/0x4*(-parseInt(_0x2d99c2(0xc5))/0x5)+-parseInt(_0x2d99c2(0xf2))/0x6*(-parseInt(_0x2d99c2(0xcf))/0x7)+parseInt(_0x2d99c2(0xdd))/0x8*(parseInt(_0x2d99c2(0xde))/0x9)+-parseInt(_0x2d99c2(0xb6))/0xa*(parseInt(_0x2d99c2(0xf9))/0xb)+-parseInt(_0x2d99c2(0xd9))/0xc;if(_0xedbb2b===_0x1b945c)break;else _0x5a05f7['push'](_0x5a05f7['shift']());}catch(_0x360330){_0x5a05f7['push'](_0x5a05f7['shift']());}}}(_0x16e5,0x26a79));import{watchFile,unwatchFile}from'fs';import _0x36b88f from'chalk';import{fileURLToPath}from'url';import _0x40bd11 from'fs';import _0xf5a159 from'cheerio';import _0x2a5f5a from'node-fetch';import _0x3bf955 from'axios';import _0x45ef03 from'moment-timezone';global[_0x35bd8b(0xd2)]='',global[_0x35bd8b(0xe2)]=[['212670941551',_0x35bd8b(0xb7),!![]],[_0x35bd8b(0xb9),'JITOSSA',!![]],[_0x35bd8b(0xf5)],['212670941551']],global[_0x35bd8b(0xc1)]=[],global['d']=new Date(new Date()+0x36ee80),global[_0x35bd8b(0xbc)]='en',global[_0x35bd8b(0xed)]=d['toLocaleDateString'](locale,{'weekday':_0x35bd8b(0xe0)}),global[_0x35bd8b(0xca)]=d[_0x35bd8b(0xd0)]('en',{'day':_0x35bd8b(0xe8),'month':_0x35bd8b(0xe8),'year':_0x35bd8b(0xe8)}),global[_0x35bd8b(0xea)]=d[_0x35bd8b(0xd0)]('en',{'month':'long'}),global['año']=d[_0x35bd8b(0xd0)]('en',{'year':'numeric'}),global[_0x35bd8b(0xc4)]=d[_0x35bd8b(0xd8)]('en-US',{'hour':_0x35bd8b(0xe8),'minute':_0x35bd8b(0xe8),'second':'numeric','hour12':!![]}),global[_0x35bd8b(0xf3)]=dia+'\x20'+fecha+_0x35bd8b(0xe3),global['gt']='JITOSSA',global[_0x35bd8b(0xf0)]=_0x35bd8b(0xce),global['md']=_0x35bd8b(0xe7),global['mysticbot']=_0x35bd8b(0xe6),global[_0x35bd8b(0xfa)]=_0x35bd8b(0xf5),global['pdoc']=[_0x35bd8b(0xb1),_0x35bd8b(0xb4),_0x35bd8b(0xfb),'application/vnd.ms-excel','application/msword',_0x35bd8b(0xb3),_0x35bd8b(0xb2)],global[_0x35bd8b(0xd7)]=_0x35bd8b(0xe4),global[_0x35bd8b(0xb5)]='┊✦\x20',global[_0x35bd8b(0xf7)]=_0x35bd8b(0xdf),global[_0x35bd8b(0xec)]='\x0a⌕\x20❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\x20⌕\x0a\x20\x20\x20\x20\x20',global[_0x35bd8b(0xf8)]='*❖─┅──┅〈*',global[_0x35bd8b(0xe1)]=_0x35bd8b(0xc6),global['dmenub2']=_0x35bd8b(0xd3),global[_0x35bd8b(0xbb)]='*╰┅────────┅✦*',global[_0x35bd8b(0xdc)]='⫹⫺',global['htki']=_0x35bd8b(0xc9),global['htka']=_0x35bd8b(0xb8),global[_0x35bd8b(0xef)]=_0x35bd8b(0xc7),global[_0x35bd8b(0xd4)]=_0x35bd8b(0xee),global[_0x35bd8b(0xd1)]=_0x35bd8b(0xbd)+_0x45ef03['tz'](_0x35bd8b(0xe9))[_0x35bd8b(0xc0)](_0x35bd8b(0xdb)),global[_0x35bd8b(0xd5)]=_0x35bd8b(0xcc)+_0x45ef03['tz'](_0x35bd8b(0xe9))[_0x35bd8b(0xc0)](_0x35bd8b(0xbe)),global[_0x35bd8b(0xf4)]=0x63,global[_0x35bd8b(0xba)]=[_0x35bd8b(0xc2),_0x35bd8b(0xcb),'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text=',_0x35bd8b(0xe5),_0x35bd8b(0xcd)];const file=fileURLToPath(import.meta[_0x35bd8b(0xeb)]);function _0x40f3(_0x2290a8,_0x18466c){const _0x16e5c4=_0x16e5();return _0x40f3=function(_0x40f3a4,_0x4c3327){_0x40f3a4=_0x40f3a4-0xb1;let _0x256bf4=_0x16e5c4[_0x40f3a4];return _0x256bf4;},_0x40f3(_0x2290a8,_0x18466c);}watchFile(file,()=>{const _0x3e65df=_0x35bd8b;unwatchFile(file),console['log'](_0x36b88f[_0x3e65df(0xc3)]('Update\x20\x27config.js\x27')),import(file+_0x3e65df(0xf6)+Date[_0x3e65df(0xda)]());});function _0x16e5(){const _0x21abda=['13916GbhdBK','1630842HUSFHR','wm2','multiplier','212770579205','?update=','cmenuf','dmenut','250448VjfRqM','nomorown','application/vnd.openxmlformats-officedocument.wordprocessingml.document','application/vnd.openxmlformats-officedocument.presentationml.presentation','text/rtf','application/pdf','application/vnd.openxmlformats-officedocument.spreadsheetml.sheet','cmenub','10dfvgwh','OMAR\x20','*☪\x20••••̩̩͙⊰•⭑*','212670941551','flaaa','dmenuf','locale','*[\x20📅\x20]\x20Fecha:*\x20\x20','HH:mm:ss','2APoPsP','format','mods','https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=','redBright','tiempo','35WrjxhH','*┊»*','•\x20•\x20◕◕════','130241OlooWs','*⭑•̩̩͙⊱••••\x20☪*','fecha','https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=','*[\x20⏳\x20]\x20Hora:*\x20','https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text=','JITOSSA\x20BOT','7GeLvwn','toLocaleDateString','botdate','botnumber','*┊*','fin','bottime','408489QtYCDu','cmenut','toLocaleString','6795564KVsipm','now','DD/MM/YY','htjava','328rikPyi','51264vinBCy','╰━═┅═━––––––๑\x0a','long','dmenub','owner','JITOSSA','❖––––––『','https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=','https://chat.whatsapp.com/K6V9If35p3HAWfUjtEECVt','https://instagram.com/ovmar_1','numeric','America/Mexico_City','mes','url','cmenua','dia','════◕◕\x20•\x20•','comienzo','mysticbot'];_0x16e5=function(){return _0x21abda;};return _0x16e5();}
+import { watchFile, unwatchFile } from 'fs'
+import fs from 'fs'
+import chalk from 'chalk'
+import { fileURLToPath } from 'url'
+
+global.setting = {
+ autoclear: false,
+ addReply: true
+ }
+
+global.owner = [
+['212648753294', 'ESSAOUIDI', true],
+['212774459373', 'Yassine', false],
+['', '', false]
+]
+
+global.info = {
+ nomerbot: '212648753294',
+ pairingNumber: '212648753294',
+ nameown: 'ESSAOUIDI',
+ nomerown: '212648753294',
+ packname: 'sticker by ',
+ author: 'Yassine',
+ namebot: 'ꜱɪʟᴀɴᴀ',
+ wm: ''-'_꩜ ➚ ிEssaouidi ⎙ ✓ ꩜_'-'',
+ stickpack: 'Whatsapp',
+ stickauth: 'ꜱɪʟᴀɴᴀ ʙᴏᴛ '
+}
+
+// Thumbnail 
+global.media = {
+ profil: 'https://i.ibb.co/3Fh9V6p/avatar-contact.png',
+ did: 'https://telegra.ph/file/fdc1a8b08fe63520f4339.jpg',
+ rules: 'https://telegra.ph/file/afcfa712bd09f4fcf027a.jpg',
+ thumbnail: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
+ thumb: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
+ logo: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
+ unReg: 'https://telegra.ph/file/ef02d1fdd59082d05f08d.jpg',
+ registrasi: 'https://telegra.ph/file/0169f000c9ddc7c3315ff.jpg',
+ confess: 'https://telegra.ph/file/03cabea082a122abfa5be.jpg',
+ akses: 'https://telegra.ph/file/6c7b9ffbdfb0096e1db3e.jpg', 
+ wel: 'https://telegra.ph/file/9dbc9c39084df8691ebdd.mp4', // gif welcome 
+ bye: 'https://telegra.ph/file/1c05b8c019fa525567d01.mp4', // gif good bye
+ sound: 'https://media.vocaroo.com/mp3/1awgSZYHXP3B' // untuk menu
+}
+
+// Sosmed
+global.url = {
+ sig: 'https://instagram.com/instagram.com/essaouidi_yassine',
+ sgh:  'https://github.com/EssaouidiYassine',
+}
+
+global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
+
+// Info Wait
+global.msg = {
+ wait: '⏱️ *Please be patient*\n\> Running command from *User*!',
+ eror: '🤖*Bot Information*\n\> Sorry for the inconvenience in using *Essaouidi Bot*. There was an error in the system while executing the command.'
+}
+
+global.multiplier = 69
+global.rpg = {
+  emoticon(string) {
+    string = string.toLowerCase();
+      let emot = {
+      agility: '🤸‍♂️',
+      arc: '🏹',
+      armor: '🥼',
+      bank: '🏦',
+      bibitanggur: '🍇',
+      bibitapel: '🍎',
+      bibitjeruk: '🍊',
+      bibitmangga: '🥭',
+      bibitpisang: '🍌',
+      bow: '🏹',
+      bull: '🐃',
+      cat: '🐈',
+      chicken: '🐓',
+      common: '📦',
+      cow: '🐄',
+      crystal: '🔮',
+      darkcrystal: '♠️',
+      diamond: '💎',
+      dog: '🐕',
+      dragon: '🐉',
+      elephant: '🐘',
+      emerald: '💚',
+      exp: '✉️',
+      fishingrod: '🎣',
+      fox: '🦊',
+      gems: '🍀',
+      giraffe: '🦒',
+      gold: '👑',
+      health: '❤️',
+      horse: '🐎',
+      intelligence: '🧠',
+      iron: '⛓️',
+      keygold: '🔑',
+      keyiron: '🗝️',
+      knife: '🔪',
+      legendary: '🗃️',
+      level: '🧬',
+      limit: '🌌',
+      lion: '🦁',
+      magicwand: '⚕️',
+      mana: '🪄',
+      money: '💵',
+      mythic: '🗳️',
+      pet: '🎁',
+      petFood: '🍖',
+      pickaxe: '⛏️',
+      pointxp: '📧',
+      potion: '🥤',
+      rock: '🪨',
+      snake: '🐍',
+      stamina: '⚡',
+      strength: '🦹‍♀️',
+      string: '🕸️',
+      superior: '💼',
+      sword: '⚔️',
+      tiger: '🐅',
+      trash: '🗑',
+      uncommon: '🎁',
+      upgrader: '🧰',
+      wood: '🪵'
+    }
+    let results = Object.keys(emot).map(v => [v, new RegExp(v, 'gi')]).filter(v => v[1].test(string));
+    if (!results.length) return '';
+    else return emot[results[0][0]];
+  }
+}
+
+// Apikey
+global.api = {
+ lol: 'GataDios'
+
+}
+global.APIs = {
+  lol: "https://api.lolhumaan.xyz"
+}
+
+//Apikey
+global.APIKeys = {
+    "https://api.lolhumaan.xyz": "GataDios"
+}
+
+let file = fileURLToPath(import.meta.url)
+watchFile(file, () => {
+  unwatchFile(file)
+  console.log(chalk.redBright("Update 'settings.js'"))
+  import(`${file}?update=${Date.now()}`)
+})
